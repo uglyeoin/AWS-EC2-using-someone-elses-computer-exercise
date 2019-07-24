@@ -1,5 +1,5 @@
 # AWS-EC2-using-someone-elses-computer-exercise
-Step through the process of manually launching a ec2 instance and deploying a app to it with circleci
+Step through the process of manually launching a ec2 instance and deploying an app to it with circleci
 
 In this exercise you're tasked to make app that runs on elastic cloud compute (a virtual machine in the cloud). 
 - write a small java / python hello world app. 
